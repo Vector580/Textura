@@ -87,7 +87,7 @@ void display()
     drawAxis();
     //fuen.draw();
     obj.draw();
-    cochi.draw();
+    //cochi.draw();
     glutSwapBuffers();
 }
 
